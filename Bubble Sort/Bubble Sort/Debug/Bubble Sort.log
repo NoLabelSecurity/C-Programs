@@ -1,0 +1,5 @@
+﻿  Bubble Sort.c
+G:\Spring 2024\CPT 234\Projects\Bubble Sort\Bubble Sort\Bubble Sort.c(38,33): error C2057: expected constant expression
+G:\Spring 2024\CPT 234\Projects\Bubble Sort\Bubble Sort\Bubble Sort.c(38,33): error C2466: cannot allocate an array of constant size 0
+G:\Spring 2024\CPT 234\Projects\Bubble Sort\Bubble Sort\Bubble Sort.c(38,34): error C2133: 'datavalues': unknown size
+G:\Spring 2024\CPT 234\Projects\Bubble Sort\Bubble Sort\Bubble Sort.c(44,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
