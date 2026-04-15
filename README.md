@@ -82,7 +82,13 @@ gcc program_name.c -o program_name
 
 ## 📄 License
 
-This repository is provided for educational and reference purposes only.
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### ⚠️ Academic Integrity Notice
+
+This repository is part of coursework for CPT234. 
+
+You are welcome to view and learn from the code, but **do not copy, reuse, or submit this work as your own for academic assignments**. Doing so may violate your institution’s academic integrity policies.
 
 You are allowed to view and learn from the code, but you may not copy, submit, or redistribute this work as your own for academic assignments or coursework.
 
