@@ -1,0 +1,5 @@
+﻿  How Many.c
+G:\Spring 2024\CPT 234\Projects\How Many\How Many\How Many.c(45,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\Spring 2024\CPT 234\Projects\How Many\How Many\How Many.c(46,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\Spring 2024\CPT 234\Projects\How Many\How Many\How Many.c(47,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  How Many.vcxproj -> G:\Spring 2024\CPT 234\Projects\How Many\Debug\How Many.exe
