@@ -1,0 +1,3 @@
+﻿  Random Numbers.c
+G:\Spring 2024\CPT 234\Projects\Random Numbers\Random Numbers\Random Numbers.c(30,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Random Numbers.vcxproj -> G:\Spring 2024\CPT 234\Projects\Random Numbers\Debug\Random Numbers.exe
