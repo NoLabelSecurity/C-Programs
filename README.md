@@ -77,3 +77,13 @@ To compile and run a C program from this repository:
 ```bash
 gcc program_name.c -o program_name
 ./program_name
+
+---
+
+## 📄 License
+
+This repository is provided for educational and reference purposes only.
+
+You are allowed to view and learn from the code, but you may not copy, submit, or redistribute this work as your own for academic assignments or coursework.
+
+All rights reserved © 2026 Brian Lorick
